@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542610462009",
+    "project_id": "fir-email-authentication-54845",
+    "storage_bucket": "fir-email-authentication-54845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542610462009:android:3207a8b803eee4394544e8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_email_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWd-E4-RTvKAADIjGTfkgKBIAMnWWhj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
